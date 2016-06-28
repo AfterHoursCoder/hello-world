@@ -3,7 +3,7 @@ All I want to do is download some colour schemes for vim.
 
 Hi my name is Geoff. One of the hardest things in life is choosing a cool username. Gets me everytime.
 
-I'm a rank beginner at programming; learning R for Study; want to learn python just because; want to learn web development so I can build my own blog site from scratch. Want to learn vim because I'm into this new nerd thing and want to be one of the cool kids. It makes me feel productive while not actually doing any work. I have fantasies of being awake at night in a secret bunker under my house writing completely innocuous code that will benefit noone but myself while my wife and kid are sleeping.
+I'm a rank beginner at programming; learning R for Study; want to learn python just because; want to learn web development so I can build my own blog site from scratch. Want to learn vim because I'm into this new nerd thing and want to be one of the cool kids. It makes me feel productive while not actually doing any work. I have fantasies of being awake at night in a secret bunker under my house writing completely innocuous code that will benefit noone but myself while my wife and kid are sleeping (hence the username).
 
 I'm going to seriously regret posting this by tomorrow.
 
